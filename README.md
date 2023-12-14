@@ -15,7 +15,7 @@ Using the Big Five personality traits test, a quick 8-minute assessment comprisi
 The project utilizes machine learning clustering methodologies adaptable to various organizational sizes. The tests are based on 1,013,558 responses to the questionnaire.
 
 
-4. **Interpret the Results:**
+**Interpret the Results:**
     - Analyze the clustering results to gain insights into prevalent personality traits within your organization.
 
 

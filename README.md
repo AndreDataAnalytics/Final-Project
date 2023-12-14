@@ -6,7 +6,7 @@ This project recognizes the importance of prioritizing employee well-being as a 
 
 ## Project Overview
 
-This project operates on the premise that each individual possesses unique characteristics that can and should be optimized. Teams with diverse profiles are more balanced and offer greater value to the company, subsequently enhancing individual and overall productivity.
+The project operates on the premise that each individual possesses unique characteristics that can and should be optimized. Teams with diverse profiles are more balanced and offer greater value to the company, subsequently enhancing individual and overall productivity.
 
 Using the Big Five personality traits test, a quick 8-minute assessment comprising 50 questions rated on a scale of 1 to 5 (where 1 indicates complete disagreement and 5 indicates complete agreement), the project aims to identify prevalent personality traits in each employee. The objective is not to classify individuals or compare them to peers but to provide insight into the composition of the company's human resources regarding dominant personality profiles.
 
